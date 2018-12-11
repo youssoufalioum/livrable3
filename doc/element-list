@@ -1,0 +1,6 @@
+com.objis.cameroun.Rexam.dao
+com.objis.cameroun.Rexam.dao.impl
+com.objis.cameroun.Rexam.domaine
+com.objis.cameroun.Rexam.presentation
+com.objis.cameroun.Rexam.service
+com.objis.cameroun.Rexam.service.impl
